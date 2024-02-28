@@ -1,7 +1,7 @@
 {
-    "name": "Playlist Tech House",
-    "albumCover": "/images/albumCovers/DiariesOfAHero.png",
-    "releaseYear": "2014",
+    "name": "Décembre 2023",
+    "albumCover": "/images/albumCovers/decembre2023.jpeg",
+    "releaseYear": "2023",
     "tracks": [
         {
             "id": 1,
@@ -10,53 +10,163 @@
         },
         {
             "id": 2,
-            "name": "Solitude",
-            "path": "/songs/Solitude.mp3"
+            "name": "Anthem King x LMFAO x Enur - Sexy Calabria (Pilmat Fuvi Clan Edit)",
+            "path": "/songs/Anthem King x LMFAO x Enur - Sexy Calabria (Pilmat Fuvi Clan Edit).mp3"
         },
         {
             "id": 3,
-            "name": "Manimal",
-            "path": "/songs/Manimal.mp3"
+            "name": "Bad Bunny & Jhay Cortez - Dakiti (Major Lazer Remix)",
+            "path": "/songs/Bad Bunny & Jhay Cortez - Dakiti (Major Lazer Remix).mp3"
         },
         {
             "id": 4,
-            "name": "J5",
-            "path": "/songs/J5.mp3"
+            "name": "Beyonce - Crazy In Love (EXYT Remix)",
+            "path": "/songs/Beyonce - Crazy In Love (EXYT Remix).mp3"
         },
         {
             "id": 5,
-            "name": "Throne",
-            "path": "/songs/Throne.mp3"
+            "name": "Bingo Players x Sterbinszky x Mynea - Paint The Town Red x Rattle (Adam B Edit)",
+            "path": "/songs/Bingo Players x Sterbinszky x Mynea - Paint The Town Red x Rattle (Adam B Edit).mp3"
         },
         {
             "id": 6,
-            "name": "Scarwhores",
-            "path": "/songs/Scarwhores.mp3"
+            "name": "Bolémvn x Yon! x Mor3l x Dj Bl3nd - Ca Canarde x Bodies (Fuvi Clan Edit)",
+            "path": "/songs/Bolémvn x Yon! x Mor3l x Dj Bl3nd - Ca Canarde x Bodies (Fuvi Clan Edit).mp3"
         },
         {
             "id": 7,
-            "name": "Highschool Funeral",
-            "path": "/songs/Highschool Funeral.mp3"
+            "name": "Creeds x Gazo, Kerchak, Leto & Favé - Push Up x No Léche (Clement Chapelle Edit)",
+            "path": "/songs/Creeds x Gazo, Kerchak, Leto & Favé - Push Up x No Léche (Clement Chapelle Edit) (1).mp3"
         },
         {
             "id": 8,
-            "name": "Get Away",
-            "path": "/songs/Get Away.mp3"
+            "name": "Daddy Yankee - Gasolina (Onderkoffer Remix)",
+            "path": "/songs/Daddy Yankee - Gasolina (Onderkoffer Remix).mp3"
         },
         {
             "id": 9,
-            "name": "Victims of Chaos",
-            "path": "/songs/Victims of Chaos.mp3"
+            "name": "David Guetta x Retrovision x Lucas & Steve - Play Hard x LFG (Pilmat 'Fuvi Clan' Edit)",
+            "path": "/songs/David Guetta x Retrovision x Lucas & Steve - Play Hard x LFG (Pilmat 'Fuvi Clan' Edit).mp3"
         },
         {
             "id": 10,
-            "name": "Neruda",
-            "path": "/songs/Neruda.mp3"
+            "name": "Dua Lipa x Mike Williams x Retrovision - Move Levitating (Ben Lemonz 'Fuvi Clan' Bootleg)",
+            "path": "/songs/Dua Lipa x Mike Williams x Retrovision - Move Levitating (Ben Lemonz 'Fuvi Clan' Bootleg).mp3"
         },
         {
             "id": 11,
-            "name": "Brother",
-            "path": "/songs/Brother.mp3"
+            "name": "Eric Prydz - Pjanoo (L2O Remix)",
+            "path": "/songs/Eric Prydz - Pjanoo (L2O Remix).mp3"
+        },
+        {
+            "id": 12,
+            "name": "Farruko, Victor Cardenas & DJ Adoni - El Incomprendido (Extended Mix)",
+            "path": "/songs/Farruko, Victor Cardenas & DJ Adoni - El Incomprendido (Extended Mix).mp3"
+        },
+        {
+            "id": 13,
+            "name": "Farruko - Nazareno (Extended Mix)",
+            "path": "/songs/Farruko - Nazareno (Extended Mix).mp3"
+        },
+        {
+            "id": 14,
+            "name": "Favé Ft. Gazo - Flashback (Extended Mix By Fuvi Clan)",
+            "path": "/songs/Favé Ft. Gazo - Flashback (Extended Mix By Fuvi Clan).mp3"
+        },
+        {
+            "id": 15,
+            "name": "Flo Rida Ft. T-Pain - Low 2k23 (Sumwest & Alchehab Remix)",
+            "path": "/songs/Flo Rida Ft. T-Pain - Low 2k23 (Sumwest & Alchehab Remix).mp3"
+        },
+        {
+            "id": 16,
+            "name": "Heuss L'Enfoiré x Gazo - Saiyan (Chelero Remix)",
+            "path": "/songs/Heuss L'Enfoiré x Gazo - Saiyan (Chelero Remix).mp3"
+        },
+        {
+            "id": 17,
+            "name": "J Balvin, USHER & DJ Khaled - Dientes (Extended Mix)",
+            "path": "/songs/J Balvin, USHER & DJ Khaled - Dientes (Extended Mix).mp3"
+        },
+        {
+            "id": 18,
+            "name": "James Hype & Kim Petras - Drums (LUSSO Remix)",
+            "path": "/songs/James Hype & Kim Petras - Drums (LUSSO Remix).mp3"
+        },
+        {
+            "id": 19,
+            "name": "Jungeli Ft. Imen Es, Alonzo, Abou Debeing & Lossa - Petit Génie (Greg Aven Club Remix)",
+            "path": "/songs/Jungeli Ft. Imen Es, Alonzo, Abou Debeing & Lossa - Petit Génie (Greg Aven Club Remix).mp3"
+        },
+        {
+            "id": 20,
+            "name": "Major Lazer & Dj Snake Ft. MØ - Lean On 2k23 (Ovano & Marlon Galvao Remix)",
+            "path": "/songs/Major Lazer & Dj Snake Ft. MØ - Lean On 2k23 (Ovano & Marlon Galvao Remix).mp3"
+        },
+        {
+            "id": 21,
+            "name": "Meduza & Genesi vs. Far East Movement - G6 x Everything You Have Done (Rick Wonder Edit)",
+            "path": "/songs/Meduza & Genesi vs. Far East Movement - G6 x Everything You Have Done (Rick Wonder Edit).mp3"
+        },
+        {
+            "id": 22,
+            "name": "Rihanna - Only Girl (Karyuu Remix)",
+            "path": "/songs/Rihanna - Only Girl (Karyuu Remix).mp3"
+        },
+        {
+            "id": 23,
+            "name": "Rihanna - Pon De Replay (Le Gar Remix)",
+            "path": "/songs/Rihanna - Pon De Replay (Le Gar Remix).mp3"
+        },
+        {
+            "id": 24,
+            "name": "Rihanna - Pon De Replay 2k23 (Ovano & Pepijn Mw Remix)",
+            "path": "/songs/Rihanna - Pon De Replay 2k23 (Ovano & Pepijn Mw Remix).mp3"
+        },
+        {
+            "id": 25,
+            "name": "Rihanna - Rude Boy (J Medina Remix)",
+            "path": "/songs/Rihanna - Rude Boy (J Medina Remix).mp3"
+        },
+        {
+            "id": 26,
+            "name": "Rihanna - We Found Love (Bennett Remix)",
+            "path": "/songs/Rihanna - We Found Love (Bennett Remix).mp3"
+        },
+        {
+            "id": 27,
+            "name": "Rihanna Ft. Afrojack & Dr Phunk - We Found Love x Party Girl (NickyLorenz Ft. Frezalo Mashup)",
+            "path": "/songs/Rihanna Ft. Afrojack & Dr Phunk - We Found Love x Party Girl (NickyLorenz Ft. Frezalo Mashup).mp3"
+        },
+        {
+            "id": 28,
+            "name": "Rosalía - DESPECHÁ (Extended Mix By Fuvi Clan)",
+            "path": "/songs/Rosalía - DESPECHÁ (Extended Mix By Fuvi Clan).mp3"
+        },
+        {
+            "id": 29,
+            "name": "Sean Paul - Get Busy (Kide Remix)",
+            "path": "/songs/Sean Paul - Get Busy (Kide Remix).mp3"
+        },
+        {
+            "id": 30,
+            "name": "Sheck Wes - Mo Bamba (Freejak Remix)",
+            "path": "/songs/Sheck Wes - Mo Bamba (Freejak Remix).mp3"
+        },
+        {
+            "id": 31,
+            "name": "Tiësto & Black Eyed Peas - Pump It Louder (DJ Serg Sniper 'Pump It Up' Edit)",
+            "path": "/songs/Tiësto & Black Eyed Peas - Pump It Louder (DJ Serg Sniper 'Pump It Up' Edit).mp3"
+        },
+        {
+            "id": 32,
+            "name": "Travis Scott - FE!N (Vandal On Da Track Edit)",
+            "path": "/songs/Travis Scott - FE!N (Vandal On Da Track Edit).mp3"
+        },
+        {
+            "id": 33,
+            "name": "Willy William - Trompeta (Extended Mix)",
+            "path": "/songs/Willy William - Trompeta (Extended Mix).mp3"
         }
     ]
 }
