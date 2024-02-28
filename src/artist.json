@@ -1,12 +1,12 @@
 {
-    "name": "Diaries Of A Hero",
+    "name": "Playlist Tech House",
     "albumCover": "/images/albumCovers/DiariesOfAHero.png",
     "releaseYear": "2014",
     "tracks": [
         {
             "id": 1,
-            "name": "Intro",
-            "path": "/songs/Intro.mp3"
+            "name": "Temperature (Wedamnz x Rivas 2021 Edit)",
+            "path": "/songs/Temperature (Wedamnz x Rivas 2021 Edit).mp3"
         },
         {
             "id": 2,
